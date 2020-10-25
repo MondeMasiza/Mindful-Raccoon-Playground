@@ -6,7 +6,7 @@ private class bot_DataController_Test {
     static void testCoverageForDataLoad() {
 
         bot_DataController.loadSampleData();
-        system.debug('This is my test')
+        system.debug('This is my test');
     }
 
 }
